@@ -1,5 +1,5 @@
 Texto para estilos. Escribimos algo antes de commit.
-
+Esta linea tras hacer pull en local
 Cambios tras commit del css 1r
 
 Otro cambio desde GitHub
